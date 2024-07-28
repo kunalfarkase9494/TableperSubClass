@@ -40,8 +40,8 @@ public class App
     	
     	Developer d = new Developer();
     	d.setId(101);
-    	d.setName("ram");
-    	d.setSalary(4500);
+    	d.setName("Ram");
+    	d.setSalary(45000);
     	d.setTech("Back-end");
     	d.setProject("E-Commerce");	
     	s.save(d);
